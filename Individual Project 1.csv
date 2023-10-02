@@ -5,7 +5,7 @@
 9/6/2023,MATH_216,100,Today I used the software Maple to create 3D graphs of various shapes while analyzing its formulas.
 9/6/2023,HIST_116,80,Today I studied about the Italian Renaissance and its impact on modern history.
 9/7/2023,DS_160,80,Today I worked on anylzing data using Numpy on Jupyter Notebook.
-9/7/2023,PHYS_307,240,Today I worked in the lab to analyze the muon flux and muon decay rate and derive Einstein's version of Newton's second Law.
+9/7/2023,PHYS_307,240,Today I worked in the lab to analyze the muon flux and decay rate and derive Einstein's version of Newton's law.
 9/8/2023,ECON_111,80,Today I worked on my online Cengage homework and reviewed on the way tax incidence affects the market
 9/8/2023,PHYS_307,30,Today I worked on practice problems which covers the chapter content
 9/8/2023,MATH_216,100,"Today I learned about creating equations using the x, y, and z variable while finding the slope for x and y"
@@ -27,11 +27,11 @@
 9/14/2023,DS_160,80,Today I worked on my Pandas notebook.
 9/14/2023,PHYS_307,240,Today I worked on practice problems which covers the chapter content and did the lab.
 9/15/2023,ECON_111,120,Today I learned about the elasticity of demand for individual consumers.
-9/15/2023,PHYS_307,100,Today I worked on practice problems which covers the chapter content.
+9/15/2023,PHYS_307,140,Today I worked on practice problems which covers the chapter content.
 9/15/2023,MATH_216,120,Today I learned more about vectors and their applications
 9/16/2023,DS_160,40,Today worked on my individual project 2.
 9/16/2023,MATH_216,60,Today I worked on homework which covers vector concepts.
-9/16/2023,HIST_116,30,Today I worked on my powerpoint presentation.
+9/16/2023,HIST_116,50,Today I worked on my powerpoint presentation.
 9/16/2023,PHYS_307,40,Today I worked on practice problems covering content material.
 9/17/2023,PHYS_307,120,Today I worked on practice problems covering content material and my lab report.
 9/17/2023,MATH_216,130,Today I worked on homework which covers vector concepts.
@@ -48,7 +48,7 @@
 9/21/2023,DS_160,80,Today I learend about matplotlib in python.
 9/21/2023,PHYS_307,240,Today I did more plotting and worked on physics lab.
 9/22/2023,ECON_111,80,Today I took notes about content material.
-9/22/2023,PHYS_307,30,Today I took notes from the lecture slides.
+9/22/2023,PHYS_307,40,Today I took notes from the lecture slides.
 9/22/2023,MATH_216,100,Today I learned about the cross product of vector
 9/23/2023,ECON_111,80,today I studied the content material and prepared for my test.
 9/23/2023,MATH_216,100,Today I worked on practice problems.
@@ -58,39 +58,31 @@
 9/24/2023,PHYS_307,40,Today I took notes on the content material.
 9/24/2023,HIST_116,130,Today I worked on my presentation powerpoint and studied for my test.
 9/25/2023,ECON_111,80,Today I took notes from the lecture slides.
-9/26/2023,PHYS_307,20,Today I took notes on the content material.
-9/27/2023,MATH_216,100,Today I took notes on cross product of vectors.
-9/28/2023,HIST_116,80,Today I took a quiz.
-9/29/2023,,,
-9/30/2023,,,
-10/1/2023,,,
-10/2/2023,,,
-10/3/2023,,,
-10/4/2023,,,
-10/5/2023,,,
-10/6/2023,,,
-10/7/2023,,,
-10/8/2023,,,
-10/9/2023,,,
-10/10/2023,,,
-10/11/2023,,,
-10/12/2023,,,
-10/13/2023,,,
-10/14/2023,,,
-10/15/2023,,,
-10/16/2023,,,
-10/17/2023,,,
-10/18/2023,,,
-10/19/2023,,,
-10/20/2023,,,
-10/21/2023,,,
-10/22/2023,,,
-10/23/2023,,,
-10/24/2023,,,
-10/25/2023,,,
-10/26/2023,,,
-10/27/2023,,,
-10/28/2023,,,
-10/29/2023,,,
-10/30/2023,,,
-10/31/2023,,,
+9/25/2023,PHYS_307,20,Today I took notes on the content material.
+9/25/2023,MATH_216,100,Today I took notes on cross product of vectors.
+9/25/2023,HIST_116,80,Today I took a quiz over content material.
+9/26/2023,DS_160,50,Today I worked on matplotlib in python and worked on my podcast summary.
+9/26/2023,MATH_216,100,Today I studied the content material for my quiz.
+9/26/2023,ECON_111,90,Today I took notes on the material and studied for my test.
+9/27/2023,ECON_111,80,Today I studied for my exam and took notes.
+9/27/2023,PHYS_307,40,Today I took notes on the content material.
+9/27/2023,MATH_216,100,Today I learned about partial derivatives and took a quiz.
+9/27/2023,HIST_116,80,Today I took notes on the age of exploration.
+9/28/2023,DS_160,50,Today I learned more about seaborn in python.
+9/28/2023,MATH_216,120,Today I worked on homework.
+9/28/2023,ECON_111,80,Today I studied for my exam and took notes.
+9/29/2023,ECON_111,80,Today I took my exam over content material.
+9/29/2023,PHYS_307,40,Today I worked on practice problems and took notes on content material.
+9/29/2023,DS_160,60,Today I worked on my individual project 3.
+9/29/2023,MATH_216,100,Today I learned more about partial derivatives.
+9/30/2023,DS_160,90,Today I worked on my individual project 3.
+9/30/2023,PHYS_307,120,Today I took notes over content material.
+9/30/2023,MATH_216,80,Today I worked on hoemwork and studied for quiz.
+9/30/2023,HIST_116,40,Today I worked on the reflection portion of my presenation.
+10/1/2023,DS_160,90,Today I worked on my individual project 3.
+10/1/2023,PHYS_307,100,Today I worked on my take home test.
+10/1/2023,MATH_216,90,Today I worked on homework and studied for quiz.
+10/2/2023,ECON_111,80,Today I learned about what is means to be a price taker in the market.
+10/2/2023,PHYS_307,90,Today I worked on practice problems and my take home test.
+10/2/2023,MATH_216,100,Today I learned more about partial derivates and differentials. 
+10/2/2023,HIST_116,30,Today I worked on the reflection portion of my presenation.
